@@ -41,15 +41,4 @@ Allows a designated spender (`spender`) to withdraw a specified number of tokens
 
 Returns the amount of tokens (`remaining`) that the designated spender (`spender`) is currently allowed to withdraw from the owner's (`owner`) account.
 
-## Events
-
-### Transfer
-
-- **Event**: `Transfer(address indexed from, address indexed to, uint256 tokens)`
-- **Description**: Triggered when tokens are transferred successfully from one address (`from`) to another address (`to`).
-
-### Approval
-
-- **Event**: `Approval(address indexed tokenOwner, address indexed spender, uint256 tokens)`
-- **Description**: Logged when an approval occurs, allowing a designated spender (`spender`) to withdraw tokens from the owner's (`tokenOwner`) account.
 
