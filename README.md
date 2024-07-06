@@ -6,7 +6,7 @@ This is a basic ERC20 token contract implemented in Solidity. The contract allow
 
 ### Token Creation
 
-The contract deploys with an initial supply of 1,000,000 tokens (`1,000,000 * 10^18` in the smallest unit).
+The contract deploys with an initial supply of 1000 tokens (`1,000,000 * 10^18` in the smallest unit).
 
 ### Ownership Management
 
